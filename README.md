@@ -7,3 +7,6 @@
 [Cesar](https://github.com/ceop0402/hg_2_charlie) -> Charlie
 
 [Willy](https://github.com/Sanktah/hg-2-delta) -> Delta
+
+
+Archivos de Charlie terminados por Willy.
